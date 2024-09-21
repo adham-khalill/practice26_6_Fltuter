@@ -12,9 +12,9 @@ This Flutter project implements a clean and modern **Login Screen UI**. The inte
 
 ### Features
 
-- **Stylish Background:** Custom background images are used to enhance the UI.
-- **Login Form:** Includes input fields for the user’s email/phone number and password.
-- **Forgot Password Link:** Provides an option for users to recover their credentials.
+- **Stylish Background**
+- **Login Form**
+- **Forgot Password Link**
 
 ---
 
